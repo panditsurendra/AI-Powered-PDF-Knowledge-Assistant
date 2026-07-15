@@ -1,0 +1,29 @@
+Agentic AI refers to a class of artificial intelligence systems that can act autonomously
+to achieve goals by making decisions, planning steps, and interacting with their 
+environment or other systems. Unlike traditional AI models that simply respond to a 
+single prompt or perform a fixed task, agentic AI systems behave more like “agents” — 
+they can break down complex objectives into smaller tasks, choose appropriate tools or 
+actions, and iteratively refine their approach based on feedback. These systems often 
+ combine components such as memory (to retain past interactions), reasoning (to decide 
+ what to do next), and tool usage (like calling APIs, searching databases, or executing 
+ code). For example, an agentic AI assistant could be given a high-level goal like “plan 
+ a trip,” and it would independently research destinations, compare prices, create an 
+ itinerary, and adjust plans based on user preferences. Agentic AI is a key concept in 
+ modern AI frameworks such as LangChain and AutoGPT, where multiple steps and decisions 
+are orchestrated dynamically. Overall, agentic AI represents a shift from passive 
+response systems to proactive, goal-driven intelligence.
+
+
+
+
+Agentic AI has a wide range of applications because it can autonomously plan, decide, 
+and act toward goals rather than just respond to prompts. One major use is in task 
+automation, where agentic systems can handle multi-step workflows like scheduling 
+meetings, managing emails, or generating reports without constant human input. In customer support, 
+they can resolve queries end-to-end by understanding the issue, retrieving relevant data, and providing 
+solutions, improving efficiency beyond simple chatbots.
+
+Another important area is software development, where agentic AI can write code, debug errors, run tests, and 
+even deploy applications by coordinating multiple tools—commonly seen in frameworks like LangChain and systems 
+such as AutoGPT. In research and data analysis, agentic AI can gather information from various sources, summarize 
+findings, and generate insights, saving significant time for analysts and scientists.
